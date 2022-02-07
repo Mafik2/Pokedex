@@ -1,0 +1,19 @@
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/variables";
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.card {
+  width: 350px;
+  margin: 10px;
+}
+img {
+  width: 250px;
+  margin: 20px;
+}
+.title{
+  font-size: 250%;
+}
+.pokemonbody{
+  margin-left: 12%;
+  margin-right: 12%;
+}
